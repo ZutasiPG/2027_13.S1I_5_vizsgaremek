@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TRANSIX.backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d544ab8f4a741fcc4e4cd7b66f0ddcd60be03183")]
 [assembly: System.Reflection.AssemblyProductAttribute("TRANSIX.backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TRANSIX.backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
