@@ -7,6 +7,7 @@ using Microsoft.IdentityModel.Tokens;
 using Transix.Api.Data;
 using Transix.Api.DTOs;
 using Transix.Api.Models;
+using BCrypt.Net;
 
 namespace Transix.Api.Controllers
 {
@@ -94,5 +95,18 @@ namespace Transix.Api.Controllers
 
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
+		[HttpPut("set-role/{userId}")]
+		public async Task<IActionResult> SetUserRole(ulong userId, [FromBody] UserRole role)
+		{
+			var user = await _context.Users.FindAsync(userId);
+			if (user == null) return NotFound("A felhasználó nem található!");
+
+			user.Role = role;
+			user.UpdatedAt = DateTime.Now;
+
+			await _context.SaveChangesAsync();
+
+			return Ok(new { message = $"Sikeres szerepkör módosítás! Új szerepkör: {role}", userId = user.Id });
+		}
     }
 }

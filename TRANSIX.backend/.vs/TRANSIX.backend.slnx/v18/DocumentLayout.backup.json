@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{38660843-0E5B-136E-1EEC-13B580F7BABA}|TRANSIX.backend.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38660843-0E5B-136E-1EEC-13B580F7BABA}|TRANSIX.backend.csproj|c:\\users\\utasizalan\\documents\\github\\2027_13.s1i_5_vizsgaremek\\transix.backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38660843-0E5B-136E-1EEC-13B580F7BABA}|TRANSIX.backend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38660843-0E5B-136E-1EEC-13B580F7BABA}|TRANSIX.backend.csproj|c:\\users\\utasizalan\\documents\\github\\2027_13.s1i_5_vizsgaremek\\transix.backend\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38660843-0E5B-136E-1EEC-13B580F7BABA}|TRANSIX.backend.csproj|solutionrelative:dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38660843-0E5B-136E-1EEC-13B580F7BABA}|TRANSIX.backend.csproj|c:\\users\\utasizalan\\documents\\github\\2027_13.s1i_5_vizsgaremek\\transix.backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38660843-0E5B-136E-1EEC-13B580F7BABA}|TRANSIX.backend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +30,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\UtasiZalan\\Documents\\GitHub\\2027_13.S1I_5_vizsgaremek\\TRANSIX.backend\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\UtasiZalan\\Documents\\GitHub\\2027_13.S1I_5_vizsgaremek\\TRANSIX.backend\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAEwDMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T11:49:03.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T11:49:03.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AuthDtos.cs",
               "DocumentMoniker": "C:\\Users\\UtasiZalan\\Documents\\GitHub\\2027_13.S1I_5_vizsgaremek\\TRANSIX.backend\\DTOs\\AuthDtos.cs",
               "RelativeDocumentMoniker": "DTOs\\AuthDtos.cs",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "DTOs\\AuthDtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T11:48:37.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T11:48:37.033Z"
             },
             {
               "$type": "Document",
@@ -62,10 +60,9 @@
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\UtasiZalan\\Documents\\GitHub\\2027_13.S1I_5_vizsgaremek\\TRANSIX.backend\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T11:36:14.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T11:36:14.501Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\UtasiZalan\\Documents\\GitHub\\2027_13.S1I_5_vizsgaremek\\TRANSIX.backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwE8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-11T11:27:22.214Z",
               "EditorCaption": ""
