@@ -1,0 +1,12 @@
+{
+  "title": "TRANSIX – Távolsági utazás egyszerűbben",
+  "description": "Magyar távolsági buszos platform utasoknak, járművezetőknek és diszpécsereknek: járatkeresés, jegy- és bérletvásárlás, utazáskövetés és flottakezelés.",
+  "language": "hu",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
