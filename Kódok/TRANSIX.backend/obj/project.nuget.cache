@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ohzCtLhhQhA=",
+  "dgSpecHash": "2UejIE3ehiQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\UtasiZalan\\Documents\\GitHub\\2027_13.S1I_5_vizsgaremek\\TRANSIX.backend\\TRANSIX.backend.csproj",
+  "projectFilePath": "C:\\Users\\UtasiZalan\\Documents\\GitHub\\2027_13.S1I_5_vizsgaremek\\Kódok\\TRANSIX.backend\\TRANSIX.backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UtasiZalan\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\UtasiZalan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
